@@ -4,6 +4,7 @@ Practicing collaborating in GitHub!
 Our repository is very awesome. 🤾‍♂️
 
 Brandywine Lunch: 🧆🫛🍜
+Anteatery Lunch: 🐖🥦🍚
 
 Brandywine Dinner: 🐓🌽🍚
-Anteatery Dinner: 🐖🥦🍚
+Anteatery Dinner: 🐮🥔

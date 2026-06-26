@@ -7,5 +7,3 @@ Brandywine Lunch: 🧆🫛🍜
 
 Brandywine Dinner: 🐓🌽🍚
 Anteatery Dinner: 🐖🥦🍚
-
-Lunch today: 🧆🫛🍜

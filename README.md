@@ -5,4 +5,7 @@ Our repository is very awesome. 🤾‍♂️
 
 Meatballs for lunch.
 
-Lunch today: 🧆🫛🍜
+Brandywine Lunch: 🧆🫛🍜
+
+Brandywine Dinner: 🐓🌽🍚
+Anteatery Dinner: 🐖🥦🍚

@@ -1,0 +1,16 @@
+---
+title: "saesha_code"
+format: html
+---
+
+#Load Data
+```{r}
+library(readr)
+ca_covid_cases <- read_csv("data/ca_covid_cases.csv")
+View(ca_covid_cases)
+
+library(readr)
+ca_covid_hosp <- read_csv("data/ca_covid_hosp.csv")
+View(ca_covid_hosp)
+```
+

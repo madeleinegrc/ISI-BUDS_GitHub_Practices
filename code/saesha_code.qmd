@@ -13,5 +13,3 @@ library(readr)
 ca_covid_hosp <- read_csv("data/ca_covid_hosp.csv")
 
 ```
-
-hgj
